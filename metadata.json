@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "31d7dc35c140b34aa23c54bd8b7426b189fc597f",
+          "commit": "9d38f630eef16b1120b2fe96a1f3d58734808401",
           "name": "lco-nsn/law-xml"
         },
         {
-          "commit": "75a18a5d55ba51d331ead0e91cf63f8d657b3944",
+          "commit": "ca41219196b2186cdf45e7951da60d483f783e1e",
           "name": "lco-nsn/law-xml-codified-preview"
         }
       ]
