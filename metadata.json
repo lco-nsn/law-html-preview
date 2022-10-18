@@ -1,8 +1,8 @@
 {
   "meta": {
     "build": {
-      "build-date": "2022-10-04",
-      "ci-build-number": "1.0.55",
+      "build-date": "2022-10-18",
+      "ci-build-number": "1.0.56",
       "ci-project": "lco-nsn/law-xml",
       "codified-date": "2022-09-02",
       "platform": {
@@ -11,17 +11,17 @@
       },
       "repositories": [
         {
-          "commit": "23c31b70cfbec343aeebb251cffc02d5651cc02b",
+          "commit": "a57a31067e7dce76f337156c8242d747cb31596b",
           "name": "lco-nsn/law-xml"
         },
         {
-          "commit": "32458b6df2b3f97b01986bfaa89f2849eca19bfb",
+          "commit": "91fdd2c8811f113323eaaddfc8d81b3d98a6ade4",
           "name": "lco-nsn/law-xml-codified-preview"
         }
       ]
     },
     "canonical-urls": {
-      "html": "",
+      "html": "https://law.lco-nsn.gov",
       "html-bulk": "https://github.com/lco-nsn/law-html",
       "law-git": "https://github.com/lco-nsn/law.git",
       "static-assets": "https://github.com/openlawlibrary/law-static-assets",
