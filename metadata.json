@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2023-12-19",
-      "ci-build-number": "1.0.106",
+      "build-date": "2024-01-11",
+      "ci-build-number": "1.0.107",
       "ci-project": "lco-nsn/law-xml",
       "codified-date": "2023-12-11",
       "platform": {
         "reproducible": "false",
-        "version": "2.13.0"
+        "version": "2.13.1"
       },
       "repositories": [
         {
-          "commit": "67cf30217a147ee4ce200638e0c49022fc6cfee7",
+          "commit": "e410d8e3e9df36b0452b27839191289c9c08f5d3",
           "name": "lco-nsn/law-xml"
         },
         {
-          "commit": "cb5140c4d7e3dc6e450901f88928fdeb7783f58d",
+          "commit": "698d3609d37ac874bdf650408514267820f49fb9",
           "name": "lco-nsn/law-xml-codified-preview"
         }
       ]
